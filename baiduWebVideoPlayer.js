@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         百度网盘视频播放助手
 // @namespace    https://github.com/junbinding/mini-scripts
-// @version      1
+// @version      1.0.0
 // @description  修复百度网盘的Web端排序容易出现异常，比如 10-2-xx 的视频出现在 2-xxx 前面。
 // @author       丫丫爸爸
 // @match        https://pan.baidu.com/play/video
 // @icon         https://pic.imgdb.cn/item/62d4b9faf54cd3f9377a7127.png
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 // 所有的视频列表
