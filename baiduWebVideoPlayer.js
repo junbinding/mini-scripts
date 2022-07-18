@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         百度网盘网页播放视频排序校正
+// @name         百度网盘视频播放助手
 // @namespace    https://github.com/junbinding/mini-scripts
 // @version      1
 // @description  修复百度网盘的Web端排序容易出现异常，比如 10-2-xx 的视频出现在 2-xxx 前面。
